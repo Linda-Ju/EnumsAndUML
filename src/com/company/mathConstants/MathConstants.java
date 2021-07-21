@@ -1,6 +1,7 @@
 package com.company.mathConstants;
 
 public enum MathConstants {
+
     PI(3.14),
     E(2.71828),
     THE_GOLDEN_RATIO(1.618033),
